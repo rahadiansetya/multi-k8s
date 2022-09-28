@@ -1,0 +1,12 @@
+Log created: 2022-09-27T13:22:22.226079000Z
+Process ID:  371038 (0x5a95e)
+Parent PID:  1 (0x1)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: tugas
+Arg[3]: --startvm
+Arg[4]: 9e6653d1-03ae-410a-8a8f-b4115115ed5b
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2
